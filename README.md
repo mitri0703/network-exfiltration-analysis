@@ -1,4 +1,4 @@
-# Project 9 – Network Exfiltration Analysis (Wireshark)
+# Project 7 – Network Exfiltration Analysis (Wireshark)
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
